@@ -1,0 +1,13 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+app.py	../car_parking/app.py	1;"	kind:file	line:1
+bike_parking	../car_parking/app.py	/^bike_parking=['available','available','available']$/;"	kind:variable	line:14
+car_parking	../car_parking/app.py	/^car_parking=[[True,True,True,True,True],$/;"	kind:variable	line:11
+check	../car_parking/app.py	/^      check=input(" \\n   Enter slot number :")$/;"	kind:variable	line:68
+localtime	../car_parking/app.py	/^localtime = time.asctime( time.localtime(time.time()) )$/;"	kind:variable	line:15
+sum	../car_parking/app.py	/^            sum=z+1$/;"	kind:variable	line:54
+z	../car_parking/app.py	/^            z=(bike_parking.index(i))$/;"	kind:variable	line:53
