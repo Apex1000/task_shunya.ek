@@ -1,4 +1,4 @@
-1: To run the socks parking program
+1: To run the socks program
 
 ```
 g++ socks.cpp
